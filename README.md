@@ -7,7 +7,6 @@
 
 
 <h2 align="left">Facts about me</h2>
-<img align="right" alt="Coding" width="40%" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
   - 🔭 Most recent project: **[Levin](https://github.com/WSU-4110/Levin)**
 
@@ -62,13 +61,13 @@
 <h2 align="left">Stats:</h2>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed7599&show_icons=true&locale=en&layout=compact" alt="ahmed7599" width="40%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed7599&show_icons=true&locale=en&layout=compact" alt="ahmed7599" width="80%"/>
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed7599&show_icons=true&locale=en" alt="ahmed7599" width="40%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed7599&show_icons=true&locale=en" alt="ahmed7599" width="80%"/>
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed7599&" alt="ahmed7599" width="40%"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed7599&" alt="ahmed7599" width="80%"/>
 </p>
