@@ -60,9 +60,9 @@
 
 <h2 align="left">Stats:</h2>
 
-<p align="center">
+<!-- <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed7599&show_icons=true&locale=en&layout=compact" alt="ahmed7599" width="80%"/>
-</p>
+</p> -->
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed7599&show_icons=true&locale=en" alt="ahmed7599" width="80%"/>
