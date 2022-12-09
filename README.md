@@ -2,7 +2,7 @@
 <h1 align="center">Hello World! 👋, I'm Ahmed Dannaoui</h1>
 <h3 align="center">I am a developer from Michigan with big ideas and I'm looking forward to collaborating with others to make those ideas a reality.</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmed7599&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed7599" width="20%"/>
+  <img src="https://komarev.com/ghpvc/?username=ahmed7599&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed7599" width="15%"/>
 </P>
 
 
