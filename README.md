@@ -5,7 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=ahmed7599&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed7599" width="15%"/>
 </P>
 
-
 <h2 align="left">Facts about me</h2>
 
   - 🔭 Most recent project: **[Levin](https://github.com/WSU-4110/Levin)**
@@ -58,16 +57,19 @@
   </a>
 </p>
 
-<h2 align="left">Stats:</h2>
+<h2 align="left">Stats:</h2> 
+
+<div align="center">
+  
+  ![trophy](https://github-profile-trophy.vercel.app/?username=ahmed7599&theme=darkhub&column=6&no-bg=true&no-frame=true)
+
+</div>
 
 <!-- <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed7599&show_icons=true&locale=en&layout=compact" alt="ahmed7599" width="80%"/>
 </p> -->
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed7599&show_icons=true&locale=en" alt="ahmed7599" width="80%"/>
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed7599&" alt="ahmed7599" width="80%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed7599&show_icons=true&locale=en" alt="ahmed7599" width="40%"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed7599&" alt="ahmed7599" width="40%"/>
 </p>
