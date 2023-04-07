@@ -7,7 +7,7 @@
 
 <h2 align="left">Facts about me</h2>
 
-  - 🔭 Most recent project: **[Levin](https://github.com/WSU-4110/Levin)**
+  - 🔭 Most recent public project: **[Levin](https://github.com/WSU-4110/Levin)**
 
   - 👨‍💻 All of my projects: **[Repositories](https://github.com/ahmed7599?tab=repositories)**
 
