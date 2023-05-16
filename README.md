@@ -88,9 +88,9 @@
   
 <!--   ![trophy](https://github-profile-trophy.vercel.app/?username=ahmed7599&theme=darkhub&column=6&no-bg=true&no-frame=true) -->
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed7599&show_icons=true&locale=en" alt="ahmed7599" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmed7599&show_icons=true&locale=en" alt="ahmed7599" width="400px"/>
   
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed7599&" alt="ahmed7599" height="200px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed7599&" alt="ahmed7599" width="400px"/>
   
 </div>
 
